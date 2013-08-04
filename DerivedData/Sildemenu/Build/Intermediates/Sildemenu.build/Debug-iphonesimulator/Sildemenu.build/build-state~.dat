@@ -1,0 +1,801 @@
+TSildemenu
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/Info.plist Sildemenu/Sildemenu-Info.plist
+cProcessPCH /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/PrecompiledHeaders/Sildemenu-Prefix-ehkztsszshuziygpssdpkieziicg/Sildemenu-Prefix.pch.pth Sildemenu/Sildemenu-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MenuViewController-7B464741AA0F699B.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/MenuViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/FirstTopViewController.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/FirstTopViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/SampleTableViewController.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/SampleTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/SecondTopViewController.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/SecondTopViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/main-777F37B0DFF59F9A.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/AppDelegate-5984B459A5D5DF9E.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/AppDelegate-EAE9DB6494EF889D.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/InitialSlidingViewController.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/InitialSlidingViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/main-8A4388ED471F4999.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/NavigationTopViewController.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/NavigationTopViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/ThirdTopViewController.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/ThirdTopViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/UnderRightViewController.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/UnderRightViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/ECSlidingViewController.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/Vendor/ECSlidingViewController/ECSlidingViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/initViewController.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/initViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/UIImage+ImageWithUIView.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/Vendor/ECSlidingViewController/UIImage+ImageWithUIView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MenuViewController-3C0267B6E5A3877D.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/MenuViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MainViewController.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/SecondViewController.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/SecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/Sildemenu normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000051BC19FB0000000000000110
+t1371281915
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000512CF1050000000000228FE0
+t1361899781
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000512CF10700000000003DDFA0
+t1361899783
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000512CF10600000000000015F7
+t1361899782
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000512CF10B0000000000000E8D
+t1361899787
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000512CF10D0000000000AB6230
+t1361899789
+s11231792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c00000000512CF11C0000000000001B73
+t1361899804
+s7027
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/PrecompiledHeaders/Sildemenu-Prefix-ehkztsszshuziygpssdpkieziicg/Sildemenu-Prefix.pch.pth
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/AppDelegate-5984B459A5D5DF9E.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/AppDelegate-EAE9DB6494EF889D.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/ECSlidingViewController.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/FirstTopViewController.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/InitialSlidingViewController.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MainViewController.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MenuViewController-3C0267B6E5A3877D.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MenuViewController-7B464741AA0F699B.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MenuViewController.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/NavigationTopViewController.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/SampleTableViewController.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/SecondTopViewController.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/SecondViewController.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/Sildemenu.LinkFileList
+c0000000051FE01F00000000000000D1D
+t1375601136
+s3357
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/ThirdTopViewController.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/UIImage+ImageWithUIView.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/UnderRightViewController.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/initViewController.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/main-777F37B0DFF59F9A.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/main-8A4388ED471F4999.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app.dSYM
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/.gitignore
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/Default.png
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/Default@2x.png
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/ECSlidingViewController-Info.plist
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/ECSlidingViewController.podspec
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/Info.plist
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/PkgInfo
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/README.md
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/Sildemenu
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/en.lproj/MainStoryboard.storyboardc
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/iPad.storyboardc
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/iPhone.storyboardc
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/AppDelegate.m
+c0000000051FDF24F00000000000007E3
+t1375597135
+s2019
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/Default-568h@2x.png
+c0000000050262AB100000000000048A2
+t1344678577
+s18594
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/Default.png
+c0000000050262AB1000000000000198C
+t1344678577
+s6540
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/Default@2x.png
+c0000000050262AB10000000000003EEB
+t1344678577
+s16107
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/.gitignore
+c000000005182F5320000000000000139
+t1367536946
+s313
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController.podspec
+c000000005182F532000000000000081C
+t1367536946
+s2076
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/AppDelegate.m
+c000000005182F53200000000000007DE
+t1367536946
+s2014
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/ECSlidingViewController-Info.plist
+c000000005182F5320000000000000568
+t1367536946
+s1384
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/FirstTopViewController.m
+c000000005182F5320000000000000557
+t1367536946
+s1367
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/InitialSlidingViewController.m
+c000000005182F5320000000000000344
+t1367536946
+s836
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/MenuViewController.m
+c000000005182F5320000000000000790
+t1367536946
+s1936
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/NavigationTopViewController.m
+c000000005182F5320000000000000385
+t1367536946
+s901
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/SampleTableViewController.m
+c000000005182F532000000000000050C
+t1367536946
+s1292
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/SecondTopViewController.m
+c000000005182F532000000000000031B
+t1367536946
+s795
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/ThirdTopViewController.m
+c000000005182F5320000000000000BE7
+t1367536946
+s3047
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/UnderRightViewController.m
+c000000005182F53200000000000006D3
+t1367536946
+s1747
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/Vendor/ECSlidingViewController/ECSlidingViewController.m
+c000000005182F5320000000000005270
+t1367536946
+s21104
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/Vendor/ECSlidingViewController/UIImage+ImageWithUIView.m
+c000000005182F5320000000000000208
+t1367536946
+s520
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/en.lproj/InfoPlist.strings
+c000000005182F532000000000000002D
+t1367536946
+s45
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/iPad.storyboard
+c000000005182F53200000000000050B6
+t1367536946
+s20662
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/iPhone.storyboard
+c000000005182F5320000000000005602
+t1367536946
+s22018
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/main.m
+c000000005182F532000000000000015C
+t1367536946
+s348
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/README.md
+c000000005182F5320000000000001A4B
+t1367536946
+s6731
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/MainViewController.m
+c0000000051FDFC3300000000000005DC
+t1375599667
+s1500
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/MenuViewController.m
+c0000000051FE018800000000000013E4
+t1375601032
+s5092
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/SecondViewController.m
+c0000000051FDFC7500000000000005EB
+t1375599733
+s1515
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/Sildemenu-Prefix.pch
+c0000000051FDF24F0000000000000141
+t1375597135
+s321
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ViewController.m
+c0000000051FDF24F00000000000001F9
+t1375597135
+s505
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/en.lproj/InfoPlist.strings
+c0000000051FDF24F000000000000002D
+t1375597135
+s45
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/en.lproj/MainStoryboard.storyboard
+c0000000051FE01F00000000000001758
+t1375601136
+s5976
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/initViewController.m
+c0000000051FDF81A000000000000033B
+t1375598618
+s827
+
+N/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/main.m
+c0000000051FDF24F000000000000015C
+t1375597135
+s348
+
+NSildemenu/Sildemenu-Info.plist
+c0000000051FDF24F00000000000004D2
+t1375597135
+s1234
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/AppDelegate.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/AppDelegate.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/FirstTopViewController.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/InitialSlidingViewController.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/MenuViewController.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/NavigationTopViewController.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/SampleTableViewController.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/SecondTopViewController.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/ThirdTopViewController.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/UnderRightViewController.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/Vendor/ECSlidingViewController/ECSlidingViewController.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/Vendor/ECSlidingViewController/UIImage+ImageWithUIView.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/main.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/MainViewController.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/MenuViewController.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/SecondViewController.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ViewController.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/initViewController.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesd8d68f7039aeb741^a1bbc47039aeb741^---0#1#0#--18"Check dependencies36"2BA08B61-D992-43CD-9123-D29B20B45D8E-
+
+CCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/AppDelegate-5984B459A5D5DF9E.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397293937.577595
+e397293937.728579
+r1
+xCompileC
+xDerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/AppDelegate-5984B459A5D5DF9E.o
+x/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/AppDelegate.md524947139aeb741^69a9c07139aeb741^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/AppDelegate.m0000000000000000^4041"CompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/AppDelegate-5984B459A5D5DF9E.o Sildemenu/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/Sildemenu    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/PrecompiledHeaders/Sildemenu-Prefix-ehkztsszshuziygpssdpkieziicg/Sildemenu-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/AppDelegate-5984B459A5D5DF9E.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/AppDelegate-5984B459A5D5DF9E.dia -c /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/AppDelegate.m -o /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/AppDelegate-5984B459A5D5DF9E.o36"C3C96F21-2A68-43E3-8E7E-A43799C08EC8-
+
+CCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/AppDelegate-EAE9DB6494EF889D.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397293937.580324
+e397293937.785403
+r1
+xCompileC
+xDerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/AppDelegate-EAE9DB6494EF889D.o
+x/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Compile /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/AppDelegate.mb7d1947139aeb741^c66fca7139aeb741^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/AppDelegate.m0000000000000000^4151"CompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/AppDelegate-EAE9DB6494EF889D.o Sildemenu/ECSlidingViewController-master/ECSlidingViewController/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/Sildemenu    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/PrecompiledHeaders/Sildemenu-Prefix-ehkztsszshuziygpssdpkieziicg/Sildemenu-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/AppDelegate-EAE9DB6494EF889D.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/AppDelegate-EAE9DB6494EF889D.dia -c /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/AppDelegate.m -o /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/AppDelegate-EAE9DB6494EF889D.o36"818A4C84-7E2A-43AB-86EB-BE681F173DBC-
+
+CCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/AppDelegate.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/ECSlidingViewController.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/Vendor/ECSlidingViewController/ECSlidingViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397293937.871054
+e397293938.398823
+r1
+xCompileC
+xDerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/ECSlidingViewController.o
+x/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/Vendor/ECSlidingViewController/ECSlidingViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection172"Compile /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/Vendor/ECSlidingViewController/ECSlidingViewController.m2043df7139aeb741^4818667239aeb741^---0#0#0#-19%DVTDocumentLocation2@180"file://localhost/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/Vendor/ECSlidingViewController/ECSlidingViewController.m0000000000000000^4217"CompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/ECSlidingViewController.o Sildemenu/ECSlidingViewController-master/ECSlidingViewController/Vendor/ECSlidingViewController/ECSlidingViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/Sildemenu    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/PrecompiledHeaders/Sildemenu-Prefix-ehkztsszshuziygpssdpkieziicg/Sildemenu-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/ECSlidingViewController.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/ECSlidingViewController.dia -c /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/Vendor/ECSlidingViewController/ECSlidingViewController.m -o /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/ECSlidingViewController.o36"32DB6104-5D81-4FE9-8862-79B2BF4695CA-
+
+CCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/FirstTopViewController.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/FirstTopViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397293937.327123
+e397293937.578864
+r1
+xCompileC
+xDerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/FirstTopViewController.o
+x/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/FirstTopViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection140"Compile /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/FirstTopViewController.mcafc537139aeb741^1631947139aeb741^---0#0#0#-19%DVTDocumentLocation2@148"file://localhost/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/FirstTopViewController.m0000000000000000^4149"CompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/FirstTopViewController.o Sildemenu/ECSlidingViewController-master/ECSlidingViewController/FirstTopViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/Sildemenu    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/PrecompiledHeaders/Sildemenu-Prefix-ehkztsszshuziygpssdpkieziicg/Sildemenu-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/FirstTopViewController.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/FirstTopViewController.dia -c /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/FirstTopViewController.m -o /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/FirstTopViewController.o36"941ED17A-77A3-40E0-A2B0-3328129BCA9A-
+
+CCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/InitialSlidingViewController.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/InitialSlidingViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397293937.597468
+e397293937.869707
+r1
+xCompileC
+xDerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/InitialSlidingViewController.o
+x/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/InitialSlidingViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection146"Compile /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/InitialSlidingViewController.m193b997139aeb741^50c4de7139aeb741^---0#0#0#-19%DVTDocumentLocation2@154"file://localhost/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/InitialSlidingViewController.m0000000000000000^4185"CompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/InitialSlidingViewController.o Sildemenu/ECSlidingViewController-master/ECSlidingViewController/InitialSlidingViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/Sildemenu    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/PrecompiledHeaders/Sildemenu-Prefix-ehkztsszshuziygpssdpkieziicg/Sildemenu-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/InitialSlidingViewController.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/InitialSlidingViewController.dia -c /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/InitialSlidingViewController.m -o /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/InitialSlidingViewController.o36"4A3BE675-D231-44B0-A501-773DFE361C38-
+
+CCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MainViewController.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397293938.231472
+e397293938.403394
+r1
+xCompileC
+xDerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MainViewController.o
+x/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/MainViewController.me0833b7239aeb741^8543677239aeb741^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/MainViewController.m0000000000000000^4015"CompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MainViewController.o Sildemenu/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/Sildemenu    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/PrecompiledHeaders/Sildemenu-Prefix-ehkztsszshuziygpssdpkieziicg/Sildemenu-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MainViewController.dia -c /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/MainViewController.m -o /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MainViewController.o36"FF7E4A67-FAA0-4F58-8975-F69A06B3F9B0-
+
+CCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MenuViewController-3C0267B6E5A3877D.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/MenuViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397293938.171930
+e397293938.387618
+r1
+xCompileC
+xDerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MenuViewController-3C0267B6E5A3877D.o
+x/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/MenuViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/MenuViewController.m:61:2: warning: Potentially incomplete method implementation. [-W#warnings]
+o#warning Potentially incomplete method implementation.
+o ^
+o/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/MenuViewController.m:68:2: warning: Incomplete method implementation. [-W#warnings]
+o#warning Incomplete method implementation.
+o ^
+o2 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/MenuViewController.mc93a2c7239aeb741^c45b637239aeb741^-412"/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/MenuViewController.m:61:2: warning: Potentially incomplete method implementation. [-W#warnings]#warning Potentially incomplete method implementation. ^/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/MenuViewController.m:68:2: warning: Incomplete method implementation. [-W#warnings]#warning Incomplete method implementation. ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@45"Potentially incomplete method implementation.-397293938#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@89"file://localhost/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/MenuViewController.m0000000000000000^60#1#60#1#1484#0#18"#warning Directive--2@33"Incomplete method implementation.-397293938#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@89"file://localhost/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/MenuViewController.m0000000000000000^67#1#67#1#1685#0#18"#warning Directive--0#0#0#-19%DVTDocumentLocation4@89"file://localhost/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/MenuViewController.m0000000000000000^4083"CompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MenuViewController-3C0267B6E5A3877D.o Sildemenu/MenuViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/Sildemenu    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/PrecompiledHeaders/Sildemenu-Prefix-ehkztsszshuziygpssdpkieziicg/Sildemenu-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MenuViewController-3C0267B6E5A3877D.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MenuViewController-3C0267B6E5A3877D.dia -c /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/MenuViewController.m -o /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MenuViewController-3C0267B6E5A3877D.o36"A1D70F86-448F-4D93-AD1E-E9F9545AC706-
+
+CCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MenuViewController-7B464741AA0F699B.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/MenuViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397293937.327109
+e397293937.595998
+r1
+xCompileC
+xDerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MenuViewController-7B464741AA0F699B.o
+x/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/MenuViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Compile /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/MenuViewController.madfb537139aeb741^b091987139aeb741^---0#0#0#-19%DVTDocumentLocation2@144"file://localhost/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/MenuViewController.m0000000000000000^4193"CompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MenuViewController-7B464741AA0F699B.o Sildemenu/ECSlidingViewController-master/ECSlidingViewController/MenuViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/Sildemenu    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/PrecompiledHeaders/Sildemenu-Prefix-ehkztsszshuziygpssdpkieziicg/Sildemenu-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MenuViewController-7B464741AA0F699B.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MenuViewController-7B464741AA0F699B.dia -c /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/MenuViewController.m -o /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MenuViewController-7B464741AA0F699B.o36"4E26EBD3-146B-4D20-A252-EA9F6A83D9ED-
+
+CCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MenuViewController.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/MenuViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/NavigationTopViewController.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/NavigationTopViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397293937.710378
+e397293937.954966
+r1
+xCompileC
+xDerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/NavigationTopViewController.o
+x/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/NavigationTopViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection145"Compile /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/NavigationTopViewController.m7d1fb67139aeb741^749af57139aeb741^---0#0#0#-19%DVTDocumentLocation2@153"file://localhost/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/NavigationTopViewController.m0000000000000000^4179"CompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/NavigationTopViewController.o Sildemenu/ECSlidingViewController-master/ECSlidingViewController/NavigationTopViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/Sildemenu    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/PrecompiledHeaders/Sildemenu-Prefix-ehkztsszshuziygpssdpkieziicg/Sildemenu-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/NavigationTopViewController.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/NavigationTopViewController.dia -c /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/NavigationTopViewController.m -o /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/NavigationTopViewController.o36"7A737982-B39F-47D0-A168-7AA49471C861-
+
+CCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/SampleTableViewController.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/SampleTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397293937.328278
+e397293937.574198
+r1
+xCompileC
+xDerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/SampleTableViewController.o
+x/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/SampleTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection143"Compile /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/SampleTableViewController.mcb4d547139aeb741^5f0a937139aeb741^---0#0#0#-19%DVTDocumentLocation2@151"file://localhost/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/SampleTableViewController.m0000000000000000^4167"CompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/SampleTableViewController.o Sildemenu/ECSlidingViewController-master/ECSlidingViewController/SampleTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/Sildemenu    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/PrecompiledHeaders/Sildemenu-Prefix-ehkztsszshuziygpssdpkieziicg/Sildemenu-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/SampleTableViewController.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/SampleTableViewController.dia -c /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/SampleTableViewController.m -o /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/SampleTableViewController.o36"C4695095-E995-4D8F-917C-A6B84D75633F-
+
+CCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/SecondTopViewController.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/SecondTopViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397293937.328458
+e397293937.574308
+r1
+xCompileC
+xDerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/SecondTopViewController.o
+x/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/SecondTopViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"Compile /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/SecondTopViewController.m0055547139aeb741^b611937139aeb741^---0#0#0#-19%DVTDocumentLocation2@149"file://localhost/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/SecondTopViewController.m0000000000000000^4155"CompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/SecondTopViewController.o Sildemenu/ECSlidingViewController-master/ECSlidingViewController/SecondTopViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/Sildemenu    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/PrecompiledHeaders/Sildemenu-Prefix-ehkztsszshuziygpssdpkieziicg/Sildemenu-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/SecondTopViewController.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/SecondTopViewController.dia -c /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/SecondTopViewController.m -o /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/SecondTopViewController.o36"20A3F094-DD5C-4A6F-9B35-6AC6B4822A07-
+
+CCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/SecondViewController.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/SecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397293938.244527
+e397293938.394408
+r1
+xCompileC
+xDerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/SecondViewController.o
+x/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/SecondViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/SecondViewController.m88da3e7239aeb741^ef02657239aeb741^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/SecondViewController.m0000000000000000^4027"CompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/SecondViewController.o Sildemenu/SecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/Sildemenu    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/PrecompiledHeaders/Sildemenu-Prefix-ehkztsszshuziygpssdpkieziicg/Sildemenu-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/SecondViewController.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/SecondViewController.dia -c /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/SecondViewController.m -o /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/SecondViewController.o36"49653437-770B-4F27-9DDD-8C3437C80C33-
+
+CCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/ThirdTopViewController.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/ThirdTopViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397293937.759348
+e397293937.953720
+r1
+xCompileC
+xDerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/ThirdTopViewController.o
+x/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/ThirdTopViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection140"Compile /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/ThirdTopViewController.m61a7c47139aeb741^0395f57139aeb741^---0#0#0#-19%DVTDocumentLocation2@148"file://localhost/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/ThirdTopViewController.m0000000000000000^4149"CompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/ThirdTopViewController.o Sildemenu/ECSlidingViewController-master/ECSlidingViewController/ThirdTopViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/Sildemenu    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/PrecompiledHeaders/Sildemenu-Prefix-ehkztsszshuziygpssdpkieziicg/Sildemenu-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/ThirdTopViewController.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/ThirdTopViewController.dia -c /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/ThirdTopViewController.m -o /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/ThirdTopViewController.o36"50743015-1D5C-4FD5-BA44-D16AD8166F45-
+
+CCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/UIImage+ImageWithUIView.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/Vendor/ECSlidingViewController/UIImage+ImageWithUIView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397293937.955622
+e397293938.240454
+r1
+xCompileC
+xDerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/UIImage+ImageWithUIView.o
+x/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/Vendor/ECSlidingViewController/UIImage+ImageWithUIView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection172"Compile /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/Vendor/ECSlidingViewController/UIImage+ImageWithUIView.ma1d6f47139aeb741^48a73e7239aeb741^---0#0#0#-19%DVTDocumentLocation2@180"file://localhost/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/Vendor/ECSlidingViewController/UIImage+ImageWithUIView.m0000000000000000^4217"CompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/UIImage+ImageWithUIView.o Sildemenu/ECSlidingViewController-master/ECSlidingViewController/Vendor/ECSlidingViewController/UIImage+ImageWithUIView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/Sildemenu    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/PrecompiledHeaders/Sildemenu-Prefix-ehkztsszshuziygpssdpkieziicg/Sildemenu-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/UIImage+ImageWithUIView.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/UIImage+ImageWithUIView.dia -c /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/Vendor/ECSlidingViewController/UIImage+ImageWithUIView.m -o /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/UIImage+ImageWithUIView.o36"8049733E-9C77-4818-A34B-EBFFE561464D-
+
+CCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/UnderRightViewController.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/UnderRightViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397293937.794063
+e397293938.170600
+r1
+xCompileC
+xDerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/UnderRightViewController.o
+x/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/UnderRightViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Compile /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/UnderRightViewController.mdc0fcc7139aeb741^389e2b7239aeb741^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/UnderRightViewController.m0000000000000000^4161"CompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/UnderRightViewController.o Sildemenu/ECSlidingViewController-master/ECSlidingViewController/UnderRightViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/Sildemenu    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/PrecompiledHeaders/Sildemenu-Prefix-ehkztsszshuziygpssdpkieziicg/Sildemenu-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/UnderRightViewController.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/UnderRightViewController.dia -c /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/UnderRightViewController.m -o /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/UnderRightViewController.o36"1E2AAD13-6715-45B0-B6F1-B51926559D91-
+
+CCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/ViewController.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/initViewController.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/initViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397293937.955522
+e397293938.228829
+r1
+xCompileC
+xDerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/initViewController.o
+x/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/initViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/initViewController.mdcd8f47139aeb741^caa43a7239aeb741^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/initViewController.m0000000000000000^4015"CompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/initViewController.o Sildemenu/initViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/Sildemenu    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/PrecompiledHeaders/Sildemenu-Prefix-ehkztsszshuziygpssdpkieziicg/Sildemenu-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/initViewController.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/initViewController.dia -c /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/initViewController.m -o /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/initViewController.o36"CAF621D7-6AD7-415B-9F2F-17D36D06E94C-
+
+CCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/main-777F37B0DFF59F9A.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397293937.575615
+e397293937.625494
+r1
+xCompileC
+xDerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/main-777F37B0DFF59F9A.o
+x/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/main.m76a7937139aeb741^541fa07139aeb741^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/main.m0000000000000000^3999"CompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/main-777F37B0DFF59F9A.o Sildemenu/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/Sildemenu    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/PrecompiledHeaders/Sildemenu-Prefix-ehkztsszshuziygpssdpkieziicg/Sildemenu-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/main-777F37B0DFF59F9A.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/main-777F37B0DFF59F9A.dia -c /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/main.m -o /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/main-777F37B0DFF59F9A.o36"9E0B4AA3-0968-43BD-A01F-904CE1B42F58-
+
+CCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/main-8A4388ED471F4999.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397293937.627541
+e397293937.708375
+r1
+xCompileC
+xDerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/main-8A4388ED471F4999.o
+x/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compile /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/main.m14eba07139aeb741^3657b57139aeb741^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/main.m0000000000000000^4109"CompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/main-8A4388ED471F4999.o Sildemenu/ECSlidingViewController-master/ECSlidingViewController/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/Sildemenu    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/PrecompiledHeaders/Sildemenu-Prefix-ehkztsszshuziygpssdpkieziicg/Sildemenu-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/main-8A4388ED471F4999.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/main-8A4388ED471F4999.dia -c /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/main.m -o /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/main-8A4388ED471F4999.o36"C40F2FEE-8169-45C9-9E07-108982E75F30-
+
+CCompileC DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/main.o /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileStoryboard /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/iPad.storyboard
+r0
+
+CCompileStoryboard /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/ECSlidingViewController-master/ECSlidingViewController/iPhone.storyboard
+r0
+
+CCompileStoryboard /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/en.lproj/MainStoryboard.storyboard
+r0
+
+CCopyPlistFile /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/ECSlidingViewController-Info.plist Sildemenu/ECSlidingViewController-master/ECSlidingViewController/ECSlidingViewController-Info.plist
+r0
+
+CCopyStringsFile /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/en.lproj/InfoPlist.strings Sildemenu/ECSlidingViewController-master/ECSlidingViewController/en.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/en.lproj/InfoPlist.strings Sildemenu/en.lproj/InfoPlist.strings
+r0
+
+CCpResource Sildemenu/Default-568h@2x.png DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/Default-568h@2x.png
+r0
+
+CCpResource Sildemenu/Default.png DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/Default.png
+r0
+
+CCpResource Sildemenu/Default@2x.png DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/Default@2x.png
+r0
+
+CCpResource Sildemenu/ECSlidingViewController-master/.gitignore DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/.gitignore
+r0
+
+CCpResource Sildemenu/ECSlidingViewController-master/ECSlidingViewController.podspec DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/ECSlidingViewController.podspec
+r0
+
+CCpResource Sildemenu/ECSlidingViewController-master/README.md DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/README.md
+r0
+
+CGenerateDSYMFile /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app.dSYM /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/Sildemenu
+r0
+
+CLd /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/Sildemenu normal i386
+s397293938.410273
+e397293938.539901
+r0
+xLd
+x/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/Sildemenu
+xnormal
+xi386
+oduplicate symbol _OBJC_IVAR_$_AppDelegate._window in:
+o    /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/AppDelegate-5984B459A5D5DF9E.o
+o    /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/AppDelegate-EAE9DB6494EF889D.o
+oduplicate symbol _OBJC_METACLASS_$_AppDelegate in:
+o    /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/AppDelegate-5984B459A5D5DF9E.o
+o    /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/AppDelegate-EAE9DB6494EF889D.o
+oduplicate symbol _OBJC_CLASS_$_AppDelegate in:
+o    /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/AppDelegate-5984B459A5D5DF9E.o
+o    /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/AppDelegate-EAE9DB6494EF889D.o
+oduplicate symbol _main in:
+o    /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/main-777F37B0DFF59F9A.o
+o    /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/main-8A4388ED471F4999.o
+oduplicate symbol _OBJC_CLASS_$_MenuViewController in:
+o    /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MenuViewController-7B464741AA0F699B.o
+o    /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MenuViewController-3C0267B6E5A3877D.o
+oduplicate symbol _OBJC_METACLASS_$_MenuViewController in:
+o    /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MenuViewController-7B464741AA0F699B.o
+o    /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MenuViewController-3C0267B6E5A3877D.o
+old: 6 duplicate symbols for architecture i386
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Link /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/Sildemenub7466c7239aeb741^da3c8a7239aeb741^-2759"duplicate symbol _OBJC_IVAR_$_AppDelegate._window in:    /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/AppDelegate-5984B459A5D5DF9E.o    /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/AppDelegate-EAE9DB6494EF889D.oduplicate symbol _OBJC_METACLASS_$_AppDelegate in:    /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/AppDelegate-5984B459A5D5DF9E.o    /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/AppDelegate-EAE9DB6494EF889D.oduplicate symbol _OBJC_CLASS_$_AppDelegate in:    /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/AppDelegate-5984B459A5D5DF9E.o    /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/AppDelegate-EAE9DB6494EF889D.oduplicate symbol _main in:    /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/main-777F37B0DFF59F9A.o    /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/main-8A4388ED471F4999.oduplicate symbol _OBJC_CLASS_$_MenuViewController in:    /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MenuViewController-7B464741AA0F699B.o    /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MenuViewController-3C0267B6E5A3877D.oduplicate symbol _OBJC_METACLASS_$_MenuViewController in:    /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MenuViewController-7B464741AA0F699B.o    /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/MenuViewController-3C0267B6E5A3877D.old: 6 duplicate symbols for architecture i386clang: error: linker command failed with exit code 1 (use -v to see invocation)2(21%IDEActivityLogMessage2@41"6 duplicate symbols for architecture i386-397293938#2633#46#-0#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-397293938#2679#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--0#0#0#--1341"Ld DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/Sildemenu normal i386    cd /Users/newsuzukihiromasa/Desktop/Sildemenu    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator -F/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator -filelist /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Objects-normal/i386/Sildemenu.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/Sildemenu36"E3469EEC-2666-4C48-B77F-5AFF2FCF60A6-
+
+CProcessInfoPlistFile /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/Info.plist Sildemenu/Sildemenu-Info.plist
+s397293936.803408
+e397293936.807930
+r1
+xProcessInfoPlistFile
+x/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/Info.plist
+xSildemenu/Sildemenu-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Process Sildemenu/Sildemenu-Info.plistb4e8cd7039aeb741^cfbdcf7039aeb741^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/Sildemenu-Info.plist0000000000000000^769"ProcessInfoPlistFile DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/Info.plist Sildemenu/Sildemenu-Info.plist    cd /Users/newsuzukihiromasa/Desktop/Sildemenu    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Sildemenu/Sildemenu-Info.plist -genpkginfo /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app/Info.plist36"3F2CD7BC-BD79-4B66-A43A-50E313FD3049-
+
+CProcessPCH /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/PrecompiledHeaders/Sildemenu-Prefix-ehkztsszshuziygpssdpkieziicg/Sildemenu-Prefix.pch.pth Sildemenu/Sildemenu-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397293936.815910
+e397293937.320098
+r1
+xProcessPCH
+x/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/PrecompiledHeaders/Sildemenu-Prefix-ehkztsszshuziygpssdpkieziicg/Sildemenu-Prefix.pch.pth
+xSildemenu/Sildemenu-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile Sildemenu/Sildemenu-Prefix.pchc91ed17039aeb741^d4f0517139aeb741^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/Sildemenu-Prefix.pch0000000000000000^3820"ProcessPCH DerivedData/Sildemenu/Build/Intermediates/PrecompiledHeaders/Sildemenu-Prefix-ehkztsszshuziygpssdpkieziicg/Sildemenu-Prefix.pch.pth Sildemenu/Sildemenu-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/Sildemenu    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/Sildemenu-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/Sildemenu.build/Debug-iphonesimulator/Sildemenu.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/PrecompiledHeaders/Sildemenu-Prefix-ehkztsszshuziygpssdpkieziicg/Sildemenu-Prefix.pch.dia -c /Users/newsuzukihiromasa/Desktop/Sildemenu/Sildemenu/Sildemenu-Prefix.pch -o /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/PrecompiledHeaders/Sildemenu-Prefix-ehkztsszshuziygpssdpkieziicg/Sildemenu-Prefix.pch.pth -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Intermediates/PrecompiledHeaders/Sildemenu-Prefix-ehkztsszshuziygpssdpkieziicg/Sildemenu-Prefix.pch.d36"FCB63486-7F48-4F37-A34A-24529A1CFFA3-
+
+CProcessPCH /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Index/PrecompiledHeaders/Sildemenu-Prefix-fyqxwjxiyncaszezzsooqhwnrkzv_ast/Sildemenu-Prefix.pch.pth Sildemenu/Sildemenu-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/newsuzukihiromasa/Desktop/Sildemenu/DerivedData/Sildemenu/Build/Products/Debug-iphonesimulator/Sildemenu.app
+r0
+
